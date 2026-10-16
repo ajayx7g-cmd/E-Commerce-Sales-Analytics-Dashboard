@@ -15,7 +15,7 @@ It helps transform raw e-commerce data into meaningful business insights through
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Sales Dashboard](<img width="1152" height="642" alt="image" src="https://github.com/user-attachments/assets/158ef81f-30e5-4b84-b8e1-a97b63b1b6f5" />)
+<img width="1152" height="642" alt="image" src="https://github.com/user-attachments/assets/158ef81f-30e5-4b84-b8e1-a97b63b1b6f5" />
 
 ## 🎯 Project Objectives
 
@@ -124,6 +124,5 @@ This project demonstrates how Power BI can transform e-commerce data into action
 It highlights skills in data analysis, dashboard development, KPI monitoring, and interactive business reporting.
 
 ---
-<img width="1152" height="642" alt="image" src="https://github.com/user-attachments/assets/158ef81f-30e5-4b84-b8e1-a97b63b1b6f5" />
 
 ⭐ If you find this project useful, consider starring the repository.
