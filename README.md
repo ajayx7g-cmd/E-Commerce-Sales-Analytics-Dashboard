@@ -15,7 +15,7 @@ It helps transform raw e-commerce data into meaningful business insights through
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Sales Dashboard](dashboard.png)
+![E-Commerce Sales Dashboard](<img width="1152" height="642" alt="image" src="https://github.com/user-attachments/assets/158ef81f-30e5-4b84-b8e1-a97b63b1b6f5" />)
 
 ## 🎯 Project Objectives
 
